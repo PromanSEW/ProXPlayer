@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DXPlayer.FFile" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAACAAAECAAAAACAACAgAACACAABAAAAAAQAAAAAAg=</HashCode>
+      <FileName>FFile.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DXPlayer.FFileInfo" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAECIAQAAAAACAQAAGACCAAAQAQAQAAAAAAAQ=</HashCode>
+      <FileName>FFileInfo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DXPlayer.FLibrary" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACgABACAAAABAAAAAAAAACAAAA=</HashCode>
+      <FileName>FLibrary.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DXPlayer.MForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>m+M/OH1AizhacDV2vO32w/hKmPTGA++Tsmt5453mF/8=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DXPlayer.CMediaFile">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAQAAAAAAAIAAAAAgAAgAIAAAAAAAA=</HashCode>
+      <FileName>CMediaFile.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="DXPlayer.MMain">
+    <Position X="5.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAIIAAEAAEhAACAAEgAAgAACQCQAAAAAAAAAQoAAIAA=</HashCode>
+      <FileName>MMain.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="DXPlayer.MPlayer">
+    <Position X="3" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="DXPlayer.MPlayer.MediaFileInfo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MPlayer.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DXPlayer.MPlayer.Effects" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MPlayer.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CABEBgAEIoAAAAAiAAAiAIAAAAAISAAAAAIAAIAgEAg=</HashCode>
+      <FileName>MPlayer.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="DXPlayer.MSkins">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAACAAACAAAQAAAA=</HashCode>
+      <FileName>MSkins.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
